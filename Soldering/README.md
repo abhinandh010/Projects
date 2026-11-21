@@ -1,5 +1,8 @@
 # Binary Clock
 
+A binary clock that displays the time not in decimal numbers, 
+but in the binary system.
+
 Materials Used:
 1. SMD Resistors(220Ω) - 20
 2. THT LED - 20
