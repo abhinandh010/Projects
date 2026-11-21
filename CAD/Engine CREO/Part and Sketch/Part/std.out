@@ -1,0 +1,5 @@
+ERROR - C:\Program Files\PTC\Creo 11.0.6.0\Common Files\text\config.pro, linenum 21:  Keyword 'ENABLE_ASSEMBLY_ACCURACY' is not valid.
+ERROR - C:\Program Files\PTC\Creo 11.0.6.0\Common Files\text\config.pro, linenum 87:  Keyword 'GTOL_DIM_PLACEMENT' is not valid.
+ERROR - C:\Program Files\PTC\Creo 11.0.6.0\Common Files\text\config.pro, linenum 91:  Keyword 'IGES_IN_ASSOC_DIM_GEOM_21' is not valid.
+ERROR - C:\Program Files\PTC\Creo 11.0.6.0\Common Files\text\config.pro, linenum 163:  Keyword 'SHOW_SHADED_EDGES' is not valid.
+ERROR - C:\Program Files\PTC\Creo 11.0.6.0\Common Files\text\config.pro, linenum 238:  Keyword 'WINDOWS_BROWSER_TYPE' is not valid.
